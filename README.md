@@ -145,6 +145,8 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 - [using-git-worktrees](https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/) - Creates isolated git worktrees with smart directory selection and safety verification.
 - [Webapp Testing](./webapp-testing/) - Tests local web applications using Playwright for verifying frontend functionality, debugging UI behavior, and capturing screenshots.
 - [codebase-onboarding](https://github.com/googlarz/codebase-onboarding) - Systematic orientation in an unfamiliar codebase — join, return, or audit mode with structured discovery phases. *By [@googlarz](https://github.com/googlarz)*
+- [deep-context](https://github.com/googlarz/deep-context) - Build verified, comprehensive context packs from a folder — with citations, contradiction detection, self-test calibration, and a one-page actionable digest. *By [@googlarz](https://github.com/googlarz)*
+- [logic-audit](https://github.com/googlarz/logic-audit) - Adversarial cross-artifact logic & consistency audit — surfaces contradictions, gaps, and false assumptions across specs, code, and docs. *By [@googlarz](https://github.com/googlarz)*
 
 ### Data & Analysis
 
@@ -204,6 +206,7 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 - [outline](https://github.com/sanjay3290/ai-skills/tree/main/skills/outline) - Search, read, create, and manage documents in Outline wiki instances (cloud or self-hosted). *By [@sanjay3290](https://github.com/sanjay3290)*
 - [review-implementing](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/review-implementing) - Evaluate code implementation plans and align with specs.
 - [test-fixing](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/test-fixing) - Detect failing tests and propose patches or fixes.
+- [collaborate](https://github.com/googlarz/collaborate) - Multi-person AI-assisted document writing — context travels between contributors, keeping shared docs coherent across sessions. *By [@googlarz](https://github.com/googlarz)*
 
 ### Security & Systems
 
